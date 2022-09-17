@@ -26,3 +26,7 @@ h3 {
 .column {
     flex:50%;
 }
+
+image {
+    max-width:100%;
+}
